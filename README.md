@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/tinmoi2.PNG"/><br><br>
 <h3>Click trang muốn đọc để đến trang có đầy đủ thông tin hơn</h3><br>
 ví dụ.<br>
-Click vào <h3>Galaxy S10 Lite, Note 10 Lite, Galaxy A51 và Galaxy A71 bất ngờ lộ giá bán trước ngày ra mắt, chỉ từ 9.6 triệu đồng</h3><br>
+Click vào <strong>Galaxy S10 Lite, Note 10 Lite, Galaxy A51 và Galaxy A71 bất ngờ lộ giá bán trước ngày ra mắt, chỉ từ 9.6 triệu đồng</strong><br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/thongtin1.PNG"/><br>
 
 
