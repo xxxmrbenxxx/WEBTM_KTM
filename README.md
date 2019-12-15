@@ -1,27 +1,27 @@
-Web TIN TỨC CÔNG NGHỆ
+<h1>Web TIN TỨC CÔNG NGHỆ</h1>
 
-## Cơ sở dữ liệu gồm 2 bảng<br>
+## Cơ sở dữ liệu gồm 2 bảng ##<br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/lk.png"/><br><br>
-- Bảng Tin Tức<br>
+- <h3>Bảng Tin Tức </h3><br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/cstin.png"/><br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/tt.jpg"/><br><br>
-- Bảng Tác Giả:<br>
+- <h3>Bảng Tác Giả:</h3><br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/cstacgia.png"/><br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/tg.jpg"/><br>
 <br>
-Trang Web có 2 trang chính<br>
-1 Trang Chủ<br>
+<h3>Trang Web có 2 trang chính</h3><br>
+1 <h3>Trang Chủ</h3><br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/trangchu.PNG"/><br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/trangchu2.PNG"/><br><br>
-Click Xem thêm để xem đầy đủ thông tin hơn.<br>
+<h3>Click Xem thêm để xem đầy đủ thông tin hơn</h3>.<br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/them.PNG"/><br><br>
-2 Trang Tin Mới<br>
+2 <h3>Trang Tin Mới</h3><br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/tinmoi.PNG"/><br><br>
-Trang có nhiều thông tin, được cập nhập<br>
+<h3>Trang có nhiều thông tin, được cập nhập</h3><br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/tinmoi2.PNG"/><br><br>
-Click trang muốn đọc để đến trang có đầy đủ thông tin hơn<br>
+<h3>Click trang muốn đọc để đến trang có đầy đủ thông tin hơn</h3><br>
 ví dụ.<br>
-Click vào Galaxy S10 Lite, Note 10 Lite, Galaxy A51 và Galaxy A71 bất ngờ lộ giá bán trước ngày ra mắt, chỉ từ 9.6 triệu đồng<br>
+Click vào <h3>Galaxy S10 Lite, Note 10 Lite, Galaxy A51 và Galaxy A71 bất ngờ lộ giá bán trước ngày ra mắt, chỉ từ 9.6 triệu đồng</h3><br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/WEBTM_KTM/master/thongtin1.PNG"/><br>
 
 
